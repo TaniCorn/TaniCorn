@@ -16,8 +16,10 @@ Procedural Generation
 - Particle Deposition
 - Perlin, Warped Perlin, Fbm
 - Faulting
+
 Networking
 - Networking a 4 player co-op 2d zombie game
+
 Graphics
 - OpenGL
 - DirectX11
@@ -25,9 +27,11 @@ Graphics
 - Dynamic tessellation
 - Lighting and shadow
 - Post-processing
+
 AI
 - A*
 - Multi-threading A*
+
 SFML
 - Graphics
 - Network
