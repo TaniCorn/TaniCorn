@@ -7,9 +7,11 @@
 - ⚡ Fun fact: My favourite animal is a (Pyrosome)[https://www.youtube.com/watch?v=MPkakSsbGYw&t=2s], it's a glowy collection of organisms. It looks like it's from another planet!
 
 Here's my [Portfolio](https://tanapats6.wixsite.com/website)
+
 Here's my [Itch.io](https://tanicorn.itch.io/)
 
 Unfortunately some of my really cool projects exist on my University repository which are all private. I have done things such as: 
+
 Procedural Generation
 - Cellular Automata
 - Poisson Disc
