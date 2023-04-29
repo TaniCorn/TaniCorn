@@ -10,6 +10,8 @@ Here's my [Portfolio](https://tanapats6.wixsite.com/website)
 
 Here's my [Itch.io](https://tanicorn.itch.io/)
 
+Here's my [Abertay Specific Codebase](https://github.com/TaniCorn/privatecoderelease)
+
 Unfortunately some of my really cool projects exist on my University repository which are all private. I have done things such as: 
 
 Procedural Generation
