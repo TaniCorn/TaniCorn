@@ -16,9 +16,13 @@ Here's my [Abertay Specific Codebase](https://github.com/TaniCorn/privatecoderel
 Here are some links to repositories that I've worked on that aren't owned by me:
 
 - DES310 Professional Project - [Project Omen](https://github.com/Whizzo123/RockFlockStudios-Prof-Project)
+
 - [Get Slimed](https://github.com/Whizzo123/Get_Slimed) Game Jam
+
 - [Treasure Hunters](https://github.com/Whizzo123/NSE_Competition)
+
 - [D-Faced](https://github.com/Whizzo123/Defaced)
+
 - [Defenders of the Harrowed Gates](https://github.com/Whizzo123/SpookGameJam)
 
 
