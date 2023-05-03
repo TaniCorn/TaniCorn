@@ -13,6 +13,8 @@ Here's my [Itch.io](https://tanicorn.itch.io/)
 
 Here's my [Abertay Specific Codebase](https://github.com/TaniCorn/privatecoderelease)
 
+
+
 Here are some links to repositories that I've worked on that aren't owned by me:
 
 - DES310 Professional Project - [Project Omen](https://github.com/Whizzo123/RockFlockStudios-Prof-Project)
@@ -26,7 +28,9 @@ Here are some links to repositories that I've worked on that aren't owned by me:
 - [Defenders of the Harrowed Gates](https://github.com/Whizzo123/SpookGameJam)
 
 
-Some cool stuff you'll find on the following links
+
+
+List of some of the stuff I've done:
 
 Abertay:
 
