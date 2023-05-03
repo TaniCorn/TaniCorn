@@ -17,7 +17,7 @@ Here are some links to repositories that I've worked on that aren't owned by me:
 
 - DES310 Professional Project - [Project Omen](https://github.com/Whizzo123/RockFlockStudios-Prof-Project)
 
-- [Get Slimed](https://github.com/Whizzo123/Get_Slimed) Game Jam
+- [Get Slimed](https://github.com/Whizzo123/Get_Slimed)
 
 - [Treasure Hunters](https://github.com/Whizzo123/NSE_Competition)
 
