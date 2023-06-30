@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Abertay Professional Project
-- 🌱 I’m currently learning UE5
-- 🤔 I’m looking for help with UE5 Lighting
+- 🔭 I’m currently working on Abertay's DARE
+- 🌱 My latest work was GetSlimed
 - 💬 Ask me about Anything!
 - 📫 Send me an email at Tanapat.s@hotmail.com
-- ⚡ Fun fact: My favourite animal is a (Pyrosome)[https://www.youtube.com/watch?v=MPkakSsbGYw&t=2s], it's a glowy collection of organisms. It looks like it's from another planet!
+- ⚡ Fun fact: My favourite animal is a [Pyrosome](https://www.youtube.com/watch?v=MPkakSsbGYw&t=2s), it's a glowy collection of organisms. It looks like it's from another planet!
 
 Here's my [Portfolio](https://tanapats6.wixsite.com/website)
 
