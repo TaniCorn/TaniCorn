@@ -28,10 +28,6 @@ Below are some of my favourite projects(that I can share)
 - [AStar pathfinding](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP202)
 
 
-Here's my [Abertay Specific Codebase](https://github.com/TaniCorn/privatecoderelease)
-
-
-
 Here are some links to repositories that I've worked on that aren't owned by me:
 
 - [Get Slimed](https://github.com/Whizzo123/Get_Slimed)
