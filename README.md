@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Abertay's DARE
-- 🌱 My latest work was GetSlimed
-- 💬 Ask me about Anything!
+- 🔭 I’m currently working on my [Honours Project](https://github.com/TaniCorn/Honours) focusing on Graphics Programming
+- 🌱 My latest work was [Search For A Star 2024](https://github.com/TaniCorn/sfas-2024)
 - 📫 Send me an email at Tanapat.s@hotmail.com
 - ⚡ Fun fact: My favourite animal is a [Pyrosome](https://www.youtube.com/watch?v=MPkakSsbGYw&t=2s), it's a glowy collection of organisms. It looks like it's from another planet!
 
@@ -10,15 +9,34 @@ Here's my [Portfolio](https://tanapats6.wixsite.com/website)
 
 Here's my [Itch.io](https://tanicorn.itch.io/)
 
+Below are some of my favourite projects(that I can share)
+
+- [Honours Project](https://github.com/TaniCorn/Honours) 
+
+- [Graphics and Shaders with DirectX11 and HLSL](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP301)
+  
+- [Search For A Star 2024](https://github.com/TaniCorn/sfas-2024)
+
+- [Networking programming with SFML](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP303)
+
+- [Procedural generation project](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP305)
+
+- [Project Omen](https://github.com/Whizzo123/RockFlockStudios-Prof-Project)
+
+- [Treasure Hunters](https://github.com/Whizzo123/NSE_Competition)
+
+- [AStar pathfinding](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP202)
+
+
 Here's my [Abertay Specific Codebase](https://github.com/TaniCorn/privatecoderelease)
 
 
 
 Here are some links to repositories that I've worked on that aren't owned by me:
 
-- DES310 Professional Project - [Project Omen](https://github.com/Whizzo123/RockFlockStudios-Prof-Project)
-
 - [Get Slimed](https://github.com/Whizzo123/Get_Slimed)
+  
+- [Project Omen](https://github.com/Whizzo123/RockFlockStudios-Prof-Project)
 
 - [Treasure Hunters](https://github.com/Whizzo123/NSE_Competition)
 
@@ -28,10 +46,8 @@ Here are some links to repositories that I've worked on that aren't owned by me:
 
 
 
-
+<!--
 List of some of the stuff I've done:
-
-Abertay:
 
 Procedural Generation
   - Cellular Automata
@@ -67,6 +83,7 @@ SFML
 Itch.io
   - Cool games mostly from jams!
 -->
+
 <!--
 **TaniCorn/TaniCorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
