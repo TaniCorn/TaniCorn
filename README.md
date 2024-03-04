@@ -29,16 +29,16 @@ Below are some of my favourite projects(that I can share)
 
 
 Here are some links to repositories that I've worked on that aren't owned by me:
-
-- [Get Slimed](https://github.com/Whizzo123/Get_Slimed)
   
 - [Project Omen](https://github.com/Whizzo123/RockFlockStudios-Prof-Project)
 
 - [Treasure Hunters](https://github.com/Whizzo123/NSE_Competition)
 
+<!--- [Get Slimed](https://github.com/Whizzo123/Get_Slimed)
+
 - [D-Faced](https://github.com/Whizzo123/Defaced)
 
-- [Defenders of the Harrowed Gates](https://github.com/Whizzo123/SpookGameJam)
+- [Defenders of the Harrowed Gates](https://github.com/Whizzo123/SpookGameJam)-->
 
 
 
