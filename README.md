@@ -1,31 +1,26 @@
-### Hi there 👋
+# Hi I'm Tanapat, a programmer with a love for learning!
 
-- 🔭 I’m currently working on my [Honours Project](https://github.com/TaniCorn/Honours) focusing on Graphics Programming
-- 🌱 My latest work was [Search For A Star 2024](https://github.com/TaniCorn/sfas-2024)
+## A bit about me
+
+I'm graduating Abertay Unviersity with a Computer Games Technology BSc Hons Degree. I'm done 30+ projects, mostly games. I'm really interested in Graphics, Gameplay, and Networking Programming.
+
+I'm looking forward to learning more about Tools Programming, Tech Art, Animation Programming, and Audio Programming.
+
 - 📫 Send me an email at Tanapat.s@hotmail.com
+- Here's my [Portfolio](https://tanapats6.wixsite.com/website) and [Itch.io](https://tanicorn.itch.io/)
 - ⚡ Fun fact: My favourite animal is a [Pyrosome](https://www.youtube.com/watch?v=MPkakSsbGYw&t=2s), it's a glowy collection of organisms. It looks like it's from another planet!
 
-Here's my [Portfolio](https://tanapats6.wixsite.com/website)
+## Current Works
+- I’m currently working on my [Honours Project](https://github.com/TaniCorn/Honours) focusing on Graphics Programming
+- My latest work was [Search For A Star 2024](https://github.com/TaniCorn/sfas-2024) <- CHECK IT OUT!
 
-Here's my [Itch.io](https://tanicorn.itch.io/)
 
-Below are some of my favourite projects(that I can share)
+| Graphics | Networking | Gameplay | Others |
+| :------------------- | :----------: | ----------: | ----------: |
+| [Search For A Star 2024](https://github.com/TaniCorn/sfas-2024)          | [Networking programming with SFML](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP303)      | [Project Omen](https://github.com/Whizzo123/RockFlockStudios-Prof-Project)       | [AStar pathfinding](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP202)       |
+| [Honours Project](https://github.com/TaniCorn/Honours)              | [Treasure Hunters](https://github.com/Whizzo123/NSE_Competition)      | Paper Trails(Not Available)     | [Procedural generation project](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP305)       |
+| [Graphics and Shaders with DirectX11 and HLSL](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP301)               |       | [AFEG1](https://github.com/TaniCorn/AFEG1)       |        |
 
-- [Honours Project](https://github.com/TaniCorn/Honours) 
-
-- [Graphics and Shaders with DirectX11 and HLSL](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP301)
-  
-- [Search For A Star 2024](https://github.com/TaniCorn/sfas-2024)
-
-- [Networking programming with SFML](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP303)
-
-- [Procedural generation project](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP305)
-
-- [Project Omen](https://github.com/Whizzo123/RockFlockStudios-Prof-Project)
-
-- [Treasure Hunters](https://github.com/Whizzo123/NSE_Competition)
-
-- [AStar pathfinding](https://github.com/TaniCorn/Abertay-Projects/tree/main/CMP202)
 
 
 Here are some links to repositories that I've worked on that aren't owned by me:
